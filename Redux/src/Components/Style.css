@@ -1,0 +1,29 @@
+.Cart-wrapper{
+    border: 2px solid black;
+    width: 50%;
+    height: auto;
+}
+.img-wrapper img{
+    width: 90%;
+    padding: 5%;
+}
+.btn-wrapper button{
+    margin-top: 2%;
+}
+.atc-wrapper img{
+    width: 10%;
+    position: fixed;
+    right: 1%;
+    top: 1%;
+}
+.span{
+    background-color: red;
+    color: white;
+    padding: 1%;
+    border-radius: 50px;
+    position: fixed;
+    right: 2.5%;
+    top: 6%;
+    z-index: 1;
+    height: 15px;
+}
